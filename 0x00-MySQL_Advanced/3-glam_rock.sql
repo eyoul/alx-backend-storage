@@ -1,5 +1,5 @@
---  creates a trigger that decreases the quantity of an item after adding
---  Quantity in the table items can be negative.
-
-CREATE TRIGGER decrease_q AFTER INSERT ON orders FOR EACH ROW
-UPDATE items SET quantity = quantity - NEW.number WHERE name=NEW.item_name;
+-- This SQL script select band_name, and lifespan column which is difference
+SELECT band_name, (IFNULL(split, '2020') - formed) AS lifespan
+    FROM metal_bands
+    WHERE FIND_IN_SET('Glam rock', IFNULL(style, "")) > 0
+    ORDER BY lifespan DESC;
