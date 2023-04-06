@@ -1,0 +1,2 @@
+--  creates a trigger that decreases the quantity of an item after adding
+--  Quantity in the table items can be negative.
