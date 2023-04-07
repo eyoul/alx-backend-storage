@@ -2,7 +2,7 @@
  
 <div class="gap formatted-content">
     <ul>
-<li><a href="/rltoken/hIx8mojpr5K_lLWY1Dd0vw" title="MySQL cheatsheet" target="_blank">MySQL cheatsheet</a></li>
+<li><a href="https://devhints.io/mysql" title="MySQL cheatsheet" target="_blank">MySQL cheatsheet</a></li>
 <li><a href="/rltoken/9sHQOSl_L05--VMN8w8l3Q" title="MySQL Performance: How To Leverage MySQL Database Indexing" target="_blank">MySQL Performance: How To Leverage MySQL Database Indexing</a></li>
 <li><a href="/rltoken/bCzQztydm-71gf-MKo-Kzw" title="Stored Procedure" target="_blank">Stored Procedure</a></li>
 <li><a href="/rltoken/jYGl2d4pq5iV5MBz7eyLlg" title="Triggers" target="_blank">Triggers</a></li>
