@@ -1,2 +1,9 @@
 
 .vscode/extensions.json
+.dockerignore
+.vscode/launch.json
+.vscode/tasks.json
+docker-compose.debug.yml
+docker-compose.yml
+Dockerfile
+requirements.txt
