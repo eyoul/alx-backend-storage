@@ -3,6 +3,7 @@
 
 from pymongo import MongoClient
 
+
 def log_stats():
     """
     Display log
@@ -24,6 +25,7 @@ def log_stats():
     print(f"\tmethod PATCH: {patch}")
     print(f"\tmethod DELETE: {delete}")
     print(f"{path} status check")
+
 
 if __name__ == "__main__":
     log_stats()
